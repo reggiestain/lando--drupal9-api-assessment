@@ -7,13 +7,13 @@ Expose a JSON API endpoint that consumes a custom Content Type.  The custom cont
 1. You need to clone this Drupal 9 project repository.
 
 ```
-git clone https://github.com/reggiestain/drupal9-api-assessment
+git clone https://github.com/reggiestain/lando--drupal9-api-assessment.git
 ```
 
 2. Change the directory to the cloned repository.
 
 ```
-cd drupal9-api-assessment
+cd lando--drupal9-api-assessment
 ```
 3. Download and install project dependencies by running the below from the project directory.
 
